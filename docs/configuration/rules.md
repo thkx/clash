@@ -129,10 +129,10 @@ When encountering this rule, Clash will resolve the domain name to an IP address
 ### RULE-SET
 
 ::: info
-This feature is only available in the [Premium](/premium/introduction) edtion.
+This feature is only available in the [Premium](../premium/introduction.md) edtion.
 :::
 
-RULE-SET rules are used to route packets based on the result of a [rule provider](/premium/rule-providers). When Clash encounters this rule, it loads the rules from the specified rule provider and then matches the packet against the rules. If the packet matches any of the rules, the packet will be routed to the specified policy, otherwise the rule is skipped.
+RULE-SET rules are used to route packets based on the result of a [rule provider](../premium/rule-providers.md). When Clash encounters this rule, it loads the rules from the specified rule provider and then matches the packet against the rules. If the packet matches any of the rules, the packet will be routed to the specified policy, otherwise the rule is skipped.
 
 ::: warning
 When encountering RULE-SET, Clash will resolve the domain name to an IP address **when the ruleset is of type IPCIDR**. If you want to skip the DNS resolution, use `no-resolve` option for the RULE-SET entry.
@@ -143,10 +143,10 @@ When encountering RULE-SET, Clash will resolve the domain name to an IP address 
 ### SCRIPT
 
 ::: info
-This feature is only available in the [Premium](/premium/introduction) edtion.
+This feature is only available in the [Premium](../premium/introduction.md) edtion.
 :::
 
-SCRIPT rules are special rules that are used to route packets based on the result of a [script shortcut](/premium/script-shortcuts). When Clash encounters this rule, it evaluates the expression. If it returns `true`, the packet will be routed to the specified policy, otherwise the rule is skipped.
+SCRIPT rules are special rules that are used to route packets based on the result of a [script shortcut](../premium/script-shortcuts.md). When Clash encounters this rule, it evaluates the expression. If it returns `true`, the packet will be routed to the specified policy, otherwise the rule is skipped.
 
 ::: warning
 When encountering this rule, Clash will resolve the domain name to an IP address. If you want to skip the DNS resolution, use `no-resolve` option.

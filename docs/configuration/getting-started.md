@@ -5,7 +5,7 @@ sidebarOrder: 2
 
 # Getting Started
 
-It's recommended that you read the [Introduction](/configuration/introduction) before proceeding. After you have a brief understanding of how Clash works, you can start writing your own configuration.
+It's recommended that you read the [Introduction](./introduction.md) before proceeding. After you have a brief understanding of how Clash works, you can start writing your own configuration.
 
 ## Configuration Files
 
@@ -39,7 +39,7 @@ You should wrap IPv6 addresses in square brackets, for example:
 
 ### DNS Wildcard Domain Matching
 
-In some cases, you will need to match against wildcard domains. For example, when you're setting up [Clash DNS](/configuration/dns), you might want to match against all subdomains of `localdomain`.
+In some cases, you will need to match against wildcard domains. For example, when you're setting up [Clash DNS](./dns.md), you might want to match against all subdomains of `localdomain`.
 
 Clash do offer support on matching different levels of wildcard domains in the DNS configuration, while the syntaxes defined below:
 

@@ -13,13 +13,13 @@ Don't worry just yet - the Premium core will stay free of charge, and the securi
 
 The Premium core is a fork of the open-source Clash core with the addition of the following features:
 
-- [TUN Device](/premium/tun-device) with the support of `auto-redir` and `auto-route`
-- [eBPF Redirect to TUN](/premium/ebpf)
-- [Rule Providers](/premium/rule-providers)
-- [Script](/premium/script)
-- [Script Shortcuts](/premium/script-shortcuts)
-- [Userspace Wireguard](/premium/userspace-wireguard)
-- [The Profiling Engine](/premium/the-profiling-engine)
+- [TUN Device](./tun-device.md) with the support of `auto-redir` and `auto-route`
+- [eBPF Redirect to TUN](./ebpf.md)
+- [Rule Providers](./rule-providers.md)
+- [Script](./script.md)
+- [Script Shortcuts](./script-shortcuts.md)
+- [Userspace Wireguard](./userspace-wireguard.md)
+- [The Profiling Engine](./the-profiling-engine.md)
 
 ## Obtaining a Copy
 
