@@ -10,6 +10,6 @@ func Authenticator() auth.Authenticator {
 	return authenticator
 }
 
-func SetAuthenticator(au auth.Authenticator) {
+func WithAuthenticator(au auth.Authenticator) {
 	authenticator = au
 }
