@@ -3,13 +3,13 @@ package mixed
 import (
 	"net"
 
-	"github.com/hhhhhhhxx/clash/common/cache"
-	N "github.com/hhhhhhhxx/clash/common/net"
-	C "github.com/hhhhhhhxx/clash/constant"
-	"github.com/hhhhhhhxx/clash/listener/http"
-	"github.com/hhhhhhhxx/clash/listener/socks"
-	"github.com/hhhhhhhxx/clash/transport/socks4"
-	"github.com/hhhhhhhxx/clash/transport/socks5"
+	"github.com/thkx/clash/common/cache"
+	N "github.com/thkx/clash/common/net"
+	C "github.com/thkx/clash/constant"
+	"github.com/thkx/clash/listener/http"
+	"github.com/thkx/clash/listener/socks"
+	"github.com/thkx/clash/transport/socks4"
+	"github.com/thkx/clash/transport/socks5"
 )
 
 type Listener struct {

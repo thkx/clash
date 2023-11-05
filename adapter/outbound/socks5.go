@@ -10,9 +10,9 @@ import (
 	"net/netip"
 	"strconv"
 
-	"github.com/hhhhhhhxx/clash/component/dialer"
-	C "github.com/hhhhhhhxx/clash/constant"
-	"github.com/hhhhhhhxx/clash/transport/socks5"
+	"github.com/thkx/clash/component/dialer"
+	C "github.com/thkx/clash/constant"
+	"github.com/thkx/clash/transport/socks5"
 )
 
 type Socks5 struct {

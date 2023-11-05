@@ -6,12 +6,12 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/hhhhhhhxx/clash/adapter/inbound"
-	"github.com/hhhhhhhxx/clash/common/cache"
-	N "github.com/hhhhhhhxx/clash/common/net"
-	C "github.com/hhhhhhhxx/clash/constant"
-	authStore "github.com/hhhhhhhxx/clash/listener/auth"
-	"github.com/hhhhhhhxx/clash/log"
+	"github.com/thkx/clash/adapter/inbound"
+	"github.com/thkx/clash/common/cache"
+	N "github.com/thkx/clash/common/net"
+	C "github.com/thkx/clash/constant"
+	authStore "github.com/thkx/clash/listener/auth"
+	"github.com/thkx/clash/log"
 )
 
 func HandleConn(c net.Conn, in chan<- C.ConnContext, cache *cache.LruCache) {

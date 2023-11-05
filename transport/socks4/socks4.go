@@ -7,9 +7,9 @@ import (
 	"net/netip"
 	"strconv"
 
-	"github.com/hhhhhhhxx/clash/component/auth"
+	"github.com/thkx/clash/component/auth"
 
-	"github.com/hhhhhhhxx/clash/protobytes"
+	"github.com/thkx/clash/protobytes"
 )
 
 const Version = 0x04

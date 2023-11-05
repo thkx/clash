@@ -7,9 +7,9 @@ import (
 	"net"
 	"time"
 
-	"github.com/hhhhhhhxx/clash/common/pool"
+	"github.com/thkx/clash/common/pool"
 
-	"github.com/hhhhhhhxx/clash/protobytes"
+	"github.com/thkx/clash/protobytes"
 )
 
 const (

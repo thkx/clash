@@ -6,12 +6,12 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/hhhhhhhxx/clash/tunnel/statistic"
+	"github.com/thkx/clash/tunnel/statistic"
 
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/render"
 	"github.com/gorilla/websocket"
-	"github.com/hhhhhhhxx/clash/protobytes"
+	"github.com/thkx/clash/protobytes"
 )
 
 func connectionRouter() http.Handler {

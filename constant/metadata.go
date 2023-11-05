@@ -6,7 +6,7 @@ import (
 	"net/netip"
 	"strconv"
 
-	"github.com/hhhhhhhxx/clash/transport/socks5"
+	"github.com/thkx/clash/transport/socks5"
 )
 
 // Socks addr type

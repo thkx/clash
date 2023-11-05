@@ -9,11 +9,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hhhhhhhxx/clash/common/cache"
-	"github.com/hhhhhhhxx/clash/component/fakeip"
-	"github.com/hhhhhhhxx/clash/component/resolver"
-	"github.com/hhhhhhhxx/clash/component/trie"
-	C "github.com/hhhhhhhxx/clash/constant"
+	"github.com/thkx/clash/common/cache"
+	"github.com/thkx/clash/component/fakeip"
+	"github.com/thkx/clash/component/resolver"
+	"github.com/thkx/clash/component/trie"
+	C "github.com/thkx/clash/constant"
 
 	D "github.com/miekg/dns"
 	"golang.org/x/sync/singleflight"

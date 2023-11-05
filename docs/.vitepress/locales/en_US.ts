@@ -27,11 +27,11 @@ export default defineConfig({
     sidebar: chapters,
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/hhhhhhhxx/clash' },
+      { icon: 'github', link: 'https://github.com/thkx/clash' },
     ],
 
     editLink: {
-      pattern: 'https://github.com/hhhhhhhxx/clash/edit/master/docs/:path',
+      pattern: 'https://github.com/thkx/clash/edit/master/docs/:path',
       text: 'Edit this page on GitHub'
     },
 
@@ -50,8 +50,8 @@ function nav() {
     {
       text: 'Download',
       items: [
-        { text: 'Open-source Edition', link: 'https://github.com/hhhhhhhxx/clash/releases/' },
-        { text: 'Premium Edition', link: 'https://github.com/hhhhhhhxx/clash/releases/tag/premium' },
+        { text: 'Open-source Edition', link: 'https://github.com/thkx/clash/releases/' },
+        { text: 'Premium Edition', link: 'https://github.com/thkx/clash/releases/tag/premium' },
       ]
     }
   ]

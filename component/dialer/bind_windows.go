@@ -7,7 +7,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/hhhhhhhxx/clash/component/iface"
+	"github.com/thkx/clash/component/iface"
 
 	"golang.org/x/sys/windows"
 )

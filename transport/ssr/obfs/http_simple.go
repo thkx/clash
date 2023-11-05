@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/hhhhhhhxx/clash/common/pool"
+	"github.com/thkx/clash/common/pool"
 )
 
 func init() {

@@ -6,7 +6,7 @@ import (
 	"io"
 	"net"
 
-	"github.com/hhhhhhhxx/clash/common/pool"
+	"github.com/thkx/clash/common/pool"
 )
 
 // ErrShortPacket means the packet is too short to be a valid encrypted packet.

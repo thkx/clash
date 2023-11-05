@@ -1,4 +1,4 @@
-module github.com/hhhhhhhxx/clash
+module github.com/thkx/clash
 
 go 1.21.3
 

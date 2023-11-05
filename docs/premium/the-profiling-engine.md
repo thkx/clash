@@ -5,7 +5,7 @@ sidebarOrder: 8
 
 # The Profiling Engine
 
-https://github.com/hhhhhhhxx/clash-tracing
+https://github.com/thkx/clash-tracing
 
 ```yaml
 profile:

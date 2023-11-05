@@ -7,13 +7,13 @@ import (
 	"net"
 	"strconv"
 
-	"github.com/hhhhhhhxx/clash/common/structure"
-	"github.com/hhhhhhhxx/clash/component/dialer"
-	C "github.com/hhhhhhhxx/clash/constant"
-	"github.com/hhhhhhhxx/clash/transport/shadowsocks/core"
-	obfs "github.com/hhhhhhhxx/clash/transport/simple-obfs"
-	"github.com/hhhhhhhxx/clash/transport/socks5"
-	v2rayObfs "github.com/hhhhhhhxx/clash/transport/v2ray-plugin"
+	"github.com/thkx/clash/common/structure"
+	"github.com/thkx/clash/component/dialer"
+	C "github.com/thkx/clash/constant"
+	"github.com/thkx/clash/transport/shadowsocks/core"
+	obfs "github.com/thkx/clash/transport/simple-obfs"
+	"github.com/thkx/clash/transport/socks5"
+	v2rayObfs "github.com/thkx/clash/transport/v2ray-plugin"
 )
 
 type ShadowSocks struct {

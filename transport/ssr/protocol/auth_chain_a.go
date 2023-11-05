@@ -11,10 +11,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/hhhhhhhxx/clash/common/pool"
-	"github.com/hhhhhhhxx/clash/log"
-	"github.com/hhhhhhhxx/clash/transport/shadowsocks/core"
-	"github.com/hhhhhhhxx/clash/transport/ssr/tools"
+	"github.com/thkx/clash/common/pool"
+	"github.com/thkx/clash/log"
+	"github.com/thkx/clash/transport/shadowsocks/core"
+	"github.com/thkx/clash/transport/ssr/tools"
 )
 
 func init() {

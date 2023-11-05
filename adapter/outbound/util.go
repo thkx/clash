@@ -4,11 +4,11 @@ import (
 	"net"
 	"time"
 
-	"github.com/hhhhhhhxx/clash/component/resolver"
-	C "github.com/hhhhhhhxx/clash/constant"
-	"github.com/hhhhhhhxx/clash/transport/socks5"
+	"github.com/thkx/clash/component/resolver"
+	C "github.com/thkx/clash/constant"
+	"github.com/thkx/clash/transport/socks5"
 
-	"github.com/hhhhhhhxx/clash/protobytes"
+	"github.com/thkx/clash/protobytes"
 )
 
 func tcpKeepAlive(c net.Conn) {

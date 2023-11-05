@@ -27,11 +27,11 @@ export default defineConfig({
     sidebar: chapters,
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/hhhhhhhxx/clash' },
+      { icon: 'github', link: 'https://github.com/thkx/clash' },
     ],
 
     editLink: {
-      pattern: 'https://github.com/hhhhhhhxx/clash/edit/master/docs/:path',
+      pattern: 'https://github.com/thkx/clash/edit/master/docs/:path',
       text: '在 GitHub 中编辑此页面'
     },
 
@@ -52,8 +52,8 @@ function nav() {
     {
       text: '下载',
       items: [
-        { text: 'GitHub 开源版', link: 'https://github.com/hhhhhhhxx/clash/releases/' },
-        { text: 'Premium 版本', link: 'https://github.com/hhhhhhhxx/clash/releases/tag/premium' },
+        { text: 'GitHub 开源版', link: 'https://github.com/thkx/clash/releases/' },
+        { text: 'Premium 版本', link: 'https://github.com/thkx/clash/releases/tag/premium' },
       ]
     }
   ]

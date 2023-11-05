@@ -5,12 +5,12 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hhhhhhhxx/clash/common/cache"
-	"github.com/hhhhhhhxx/clash/component/fakeip"
-	"github.com/hhhhhhhxx/clash/component/trie"
-	C "github.com/hhhhhhhxx/clash/constant"
-	"github.com/hhhhhhhxx/clash/context"
-	"github.com/hhhhhhhxx/clash/log"
+	"github.com/thkx/clash/common/cache"
+	"github.com/thkx/clash/component/fakeip"
+	"github.com/thkx/clash/component/trie"
+	C "github.com/thkx/clash/constant"
+	"github.com/thkx/clash/context"
+	"github.com/thkx/clash/log"
 
 	D "github.com/miekg/dns"
 )

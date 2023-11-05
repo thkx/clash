@@ -10,15 +10,15 @@ import (
 	"time"
 	"unsafe"
 
-	C "github.com/hhhhhhhxx/clash/constant"
-	"github.com/hhhhhhhxx/clash/log"
-	"github.com/hhhhhhhxx/clash/tunnel/statistic"
+	C "github.com/thkx/clash/constant"
+	"github.com/thkx/clash/log"
+	"github.com/thkx/clash/tunnel/statistic"
 
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/cors"
 	"github.com/go-chi/render"
 	"github.com/gorilla/websocket"
-	"github.com/hhhhhhhxx/clash/protobytes"
+	"github.com/thkx/clash/protobytes"
 )
 
 var (

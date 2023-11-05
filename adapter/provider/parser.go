@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/hhhhhhhxx/clash/common/structure"
-	C "github.com/hhhhhhhxx/clash/constant"
-	types "github.com/hhhhhhhxx/clash/constant/provider"
+	"github.com/thkx/clash/common/structure"
+	C "github.com/thkx/clash/constant"
+	types "github.com/thkx/clash/constant/provider"
 )
 
 var (

@@ -6,9 +6,9 @@ import (
 	"testing"
 	"time"
 
-	C "github.com/hhhhhhhxx/clash/constant"
-	"github.com/hhhhhhhxx/clash/listener"
-	"github.com/hhhhhhhxx/clash/tunnel"
+	C "github.com/thkx/clash/constant"
+	"github.com/thkx/clash/listener"
+	"github.com/thkx/clash/tunnel"
 
 	"github.com/stretchr/testify/require"
 )

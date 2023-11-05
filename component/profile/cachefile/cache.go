@@ -5,9 +5,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/hhhhhhhxx/clash/component/profile"
-	C "github.com/hhhhhhhxx/clash/constant"
-	"github.com/hhhhhhhxx/clash/log"
+	"github.com/thkx/clash/component/profile"
+	C "github.com/thkx/clash/constant"
+	"github.com/thkx/clash/log"
 
 	"go.etcd.io/bbolt"
 )

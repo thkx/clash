@@ -5,7 +5,7 @@ sidebarOrder: 8
 
 # 性能分析引擎
 
-https://github.com/hhhhhhhxx/clash-tracing
+https://github.com/thkx/clash-tracing
 
 ```yaml
 profile:

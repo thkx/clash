@@ -3,12 +3,12 @@ package socks
 import (
 	"net"
 
-	"github.com/hhhhhhhxx/clash/adapter/inbound"
-	"github.com/hhhhhhhxx/clash/common/pool"
-	"github.com/hhhhhhhxx/clash/common/sockopt"
-	C "github.com/hhhhhhhxx/clash/constant"
-	"github.com/hhhhhhhxx/clash/log"
-	"github.com/hhhhhhhxx/clash/transport/socks5"
+	"github.com/thkx/clash/adapter/inbound"
+	"github.com/thkx/clash/common/pool"
+	"github.com/thkx/clash/common/sockopt"
+	C "github.com/thkx/clash/constant"
+	"github.com/thkx/clash/log"
+	"github.com/thkx/clash/transport/socks5"
 )
 
 type UDPListener struct {

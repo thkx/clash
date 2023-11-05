@@ -7,11 +7,11 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/hhhhhhhxx/clash/adapter"
-	"github.com/hhhhhhhxx/clash/adapter/outbound"
-	"github.com/hhhhhhhxx/clash/common/singledo"
-	C "github.com/hhhhhhhxx/clash/constant"
-	types "github.com/hhhhhhhxx/clash/constant/provider"
+	"github.com/thkx/clash/adapter"
+	"github.com/thkx/clash/adapter/outbound"
+	"github.com/thkx/clash/common/singledo"
+	C "github.com/thkx/clash/constant"
+	types "github.com/thkx/clash/constant/provider"
 
 	regexp "github.com/dlclark/regexp2"
 	"github.com/samber/lo"

@@ -12,11 +12,11 @@ import (
 	"net/http"
 	"sync"
 
-	C "github.com/hhhhhhhxx/clash/constant"
-	"github.com/hhhhhhhxx/clash/transport/socks5"
-	"github.com/hhhhhhhxx/clash/transport/vmess"
+	C "github.com/thkx/clash/constant"
+	"github.com/thkx/clash/transport/socks5"
+	"github.com/thkx/clash/transport/vmess"
 
-	"github.com/hhhhhhhxx/clash/protobytes"
+	"github.com/thkx/clash/protobytes"
 )
 
 const (

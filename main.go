@@ -9,11 +9,11 @@ import (
 	"runtime"
 	"syscall"
 
-	"github.com/hhhhhhhxx/clash/config"
-	C "github.com/hhhhhhhxx/clash/constant"
-	"github.com/hhhhhhhxx/clash/hub"
-	"github.com/hhhhhhhxx/clash/hub/executor"
-	"github.com/hhhhhhhxx/clash/log"
+	"github.com/thkx/clash/config"
+	C "github.com/thkx/clash/constant"
+	"github.com/thkx/clash/hub"
+	"github.com/thkx/clash/hub/executor"
+	"github.com/thkx/clash/log"
 
 	"go.uber.org/automaxprocs/maxprocs"
 )

@@ -11,9 +11,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/hhhhhhhxx/clash/common/pool"
-	"github.com/hhhhhhhxx/clash/log"
-	"github.com/hhhhhhhxx/clash/transport/shadowsocks/core"
+	"github.com/thkx/clash/common/pool"
+	"github.com/thkx/clash/log"
+	"github.com/thkx/clash/transport/shadowsocks/core"
 )
 
 type Base struct {

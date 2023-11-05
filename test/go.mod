@@ -5,14 +5,14 @@ go 1.21.3
 require (
 	github.com/docker/docker v24.0.5+incompatible
 	github.com/docker/go-connections v0.4.0
-	github.com/hhhhhhhxx/clash v1.12.0
+	github.com/thkx/clash v1.12.0
 	github.com/miekg/dns v1.1.56
 	github.com/stretchr/testify v1.8.4
 	go.uber.org/automaxprocs v1.5.3
 	golang.org/x/net v0.17.0
 )
 
-replace github.com/hhhhhhhxx/clash => ../
+replace github.com/thkx/clash => ../
 
 require (
 	github.com/Microsoft/go-winio v0.6.1 // indirect

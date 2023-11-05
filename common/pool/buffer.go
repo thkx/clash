@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"sync"
 
-	"github.com/hhhhhhhxx/clash/protobytes"
+	"github.com/thkx/clash/protobytes"
 )
 
 var (

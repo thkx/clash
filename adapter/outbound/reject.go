@@ -6,8 +6,8 @@ import (
 	"net"
 	"time"
 
-	"github.com/hhhhhhhxx/clash/component/dialer"
-	C "github.com/hhhhhhhxx/clash/constant"
+	"github.com/thkx/clash/component/dialer"
+	C "github.com/thkx/clash/constant"
 )
 
 type Reject struct {

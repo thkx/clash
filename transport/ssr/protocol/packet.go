@@ -3,7 +3,7 @@ package protocol
 import (
 	"net"
 
-	"github.com/hhhhhhhxx/clash/common/pool"
+	"github.com/thkx/clash/common/pool"
 )
 
 type PacketConn struct {

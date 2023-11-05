@@ -4,11 +4,11 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/hhhhhhhxx/clash/adapter/outbound"
-	"github.com/hhhhhhhxx/clash/adapter/provider"
-	"github.com/hhhhhhhxx/clash/common/structure"
-	C "github.com/hhhhhhhxx/clash/constant"
-	types "github.com/hhhhhhhxx/clash/constant/provider"
+	"github.com/thkx/clash/adapter/outbound"
+	"github.com/thkx/clash/adapter/provider"
+	"github.com/thkx/clash/common/structure"
+	C "github.com/thkx/clash/constant"
+	types "github.com/thkx/clash/constant/provider"
 
 	regexp "github.com/dlclark/regexp2"
 )

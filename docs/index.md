@@ -9,8 +9,8 @@ It has been adopted widely by the Internet users in some countries and regions w
 
 There are currently two editions of Clash:
 
-- [Clash](https://github.com/hhhhhhhxx/clash): the open-source version released at [github.com/hhhhhhhxx/clash](https://github.com/hhhhhhhxx/clash)
-- [Clash Premium](https://github.com/hhhhhhhxx/clash/releases/tag/premium): proprietary core with [TUN support and more](/premium/introduction) (free of charge)
+- [Clash](https://github.com/thkx/clash): the open-source version released at [github.com/thkx/clash](https://github.com/thkx/clash)
+- [Clash Premium](https://github.com/thkx/clash/releases/tag/premium): proprietary core with [TUN support and more](/premium/introduction) (free of charge)
 
 While this wiki covers both, however, the use of Clash could be challenging for the average users. Those might want to consider using a GUI client instead, and we do have some recommendations:
 
@@ -35,4 +35,4 @@ While this wiki covers both, however, the use of Clash could be challenging for 
 
 ## License
 
-Clash is released under the [GPL-3.0](https://github.com/hhhhhhhxx/clash/blob/master/LICENSE) open-source license. Prior to [v0.16.0](https://github.com/hhhhhhhxx/clash/releases/tag/v0.16.0) or commit [e5284c](https://github.com/hhhhhhhxx/clash/commit/e5284cf647717a8087a185d88d15a01096274bc2), it was licensed under the MIT license.
+Clash is released under the [GPL-3.0](https://github.com/thkx/clash/blob/master/LICENSE) open-source license. Prior to [v0.16.0](https://github.com/thkx/clash/releases/tag/v0.16.0) or commit [e5284c](https://github.com/thkx/clash/commit/e5284cf647717a8087a185d88d15a01096274bc2), it was licensed under the MIT license.
